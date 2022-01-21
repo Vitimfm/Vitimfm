@@ -1,4 +1,4 @@
-## Opa! Eai? Vitor aqui. 
+## Opa! Eai? Vitor aqui 😄
 <div align="center">
  <a href="https://github.com/Vitimfm">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitimfm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="right" alt="mario64" src="![VID-20181106-WA0029_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/96491301/150590530-b3018309-0395-485c-b677-242c3555f5ec.gif)"
+   <img align="right" alt="mario64" src="https://user-images.githubusercontent.com/96491301/150590530-b3018309-0395-485c-b677-242c3555f5ec.gif">
   </div>
   
   ##
