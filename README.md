@@ -31,7 +31,7 @@ I'am a brazillian developer with a great interest in Game Development. Currently
 ### Python Projects:
 [CRUD](https://github.com/Vitimfm/Pyhton-CRUD) - CRUD + Tkinter Interface (Finished)
 
-[FIST_GAME](https://github.com/Vitimfm/2D-Game-Turtle-Library) - Fist Game using Turtle Library (Finished)
+[FIRST_GAME](https://github.com/Vitimfm/2D-Game-Turtle-Library) - Fist Game using Turtle Library (Finished)
 ### C Projects:
 [BINARY_TREE](https://github.com/Vitimfm/Binary-Tree-School) - Binary Tree using concepts of pointes (Finished)
 
