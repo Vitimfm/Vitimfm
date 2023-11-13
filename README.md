@@ -27,6 +27,7 @@ I'am a brazillian developer with a great interest in Game Development. Currently
 ## Projects Indexes:
 
 ### Java Projects:
+[2D-GAME](https://github.com/Vitimfm/2D-Canva-Game) - 2D Game using Canvas Library (Not Finished)
 [GAME_ENGINE](https://github.com/Vitimfm/Game-engine-Canva) - Game Engine + Simple Game using Canvas Library (Finished)
 ### Python Projects:
 [CRUD](https://github.com/Vitimfm/Pyhton-CRUD) - CRUD + Tkinter Interface (Finished)
