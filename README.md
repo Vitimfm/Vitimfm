@@ -3,7 +3,7 @@
 I'am a brazillian developer with a great interest in Game Development. Currently studying the Java and basic Game Disigner.
 
 ### Tools
- <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = 50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 50/> <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = 50/>
+ <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = 50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 50/> <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = 50/> <img align="right" width = 100 alt="mario64" src="https://user-images.githubusercontent.com/96491301/150590530-b3018309-0395-485c-b677-242c3555f5ec.gif"/>
 
 ### Stats 
   <div style="display: inline"><br>
@@ -11,7 +11,6 @@ I'am a brazillian developer with a great interest in Game Development. Currently
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vitimfm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitimfm&layout=compact&langs_count=7&theme=dark"/> 
   </div>
-  <img align="right" alt="mario64" src="https://user-images.githubusercontent.com/96491301/150590530-b3018309-0395-485c-b677-242c3555f5ec.gif">
   
 ### Social Medias
   <div style="display: inline_block"><br>
@@ -28,6 +27,7 @@ I'am a brazillian developer with a great interest in Game Development. Currently
 
 ### Java Projects:
 [2D-GAME](https://github.com/Vitimfm/2D-Canva-Game) - 2D Game using Canvas Library (Not Finished)
+
 [GAME_ENGINE](https://github.com/Vitimfm/Game-engine-Canva) - Game Engine + Simple Game using Canvas Library (Finished)
 ### Python Projects:
 [CRUD](https://github.com/Vitimfm/Pyhton-CRUD) - CRUD + Tkinter Interface (Finished)
