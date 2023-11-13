@@ -1,21 +1,34 @@
 ## Sup! Vitor here. 😄
+
+I'am a brazillian developer with a great interest in Game Development. Currently studying the Java and basic Game Disigner.
+
+### Tools
+ <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width = 50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = 50/> <img src ="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width = 50/>
+
+### Stats 
   <div style="display: inline"><br>
   <a href="https://github.com/Vitimfm">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vitimfm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitimfm&layout=compact&langs_count=7&theme=dark"/> 
   </div>
- 
- 
+  <img align="right" alt="mario64" src="https://user-images.githubusercontent.com/96491301/150590530-b3018309-0395-485c-b677-242c3555f5ec.gif">
+  
+### Social Medias
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="50" width="40" src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor">
-   <img align="right" alt="mario64" src="https://user-images.githubusercontent.com/96491301/150590530-b3018309-0395-485c-b677-242c3555f5ec.gif">
-  </div>
-  
-  ##
-  
-  <div>
+    
+   <div>
     <a href=https://www.youtube.com/channel/UCCTK0rdCCK2iKYnmNTfFbyA target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" ></a>
     <a href=https://www.instagram.com/vitimfm/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href = "mailto:vitormenezes1266@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
     <a href="https://www.linkedin.com/in/vitor-freitas-334b88228/" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     
   </div>
+
+## Projects Indexes:
+
+### Python Projects:
+[CRUD](https://github.com/Vitimfm/Pyhton-CRUD) - CRUD + Tkinter Interface(Finished)
+
+
+  
+  
