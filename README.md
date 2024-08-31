@@ -2,7 +2,7 @@
 
 <img align="right" width = 100 alt="mario64" src="https://user-images.githubusercontent.com/96491301/150590530-b3018309-0395-485c-b677-242c3555f5ec.gif"/>
 
-I'am a brazillian developer with a great interest in Game Development. 
+I'm a brazillian developer with a great interest in Game Development. 
 
 Currently studying the Java and basic Game Disigner.
  
