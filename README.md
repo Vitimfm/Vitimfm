@@ -4,7 +4,7 @@
 
 I'm a brazillian developer with a great interest in Game Development. 
 
-Currently studying the Java and basic Game Disigner.
+Currently studying the C# and basic Game Engines
  
 
 ### Tools
